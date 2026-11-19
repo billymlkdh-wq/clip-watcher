@@ -1,0 +1,11 @@
+.DS_Store
+.content_rewards_profile/
+.content_rewards_shots/
+.tiktok_last_post
+.tiktok_post.lock
+.tiktok_profile/
+.tiktok_shots/
+.youtube/
+__pycache__/
+clips/
+test_clips/
