@@ -1,0 +1,51 @@
+{
+  "_info": "canal da Twitch -> campanha. title/desc sobrescrevem o YouTube pra cumprir regra de nome + hashtag. Regras: reachclipping.com/<pagina>",
+  "lacy": {
+    "name": "$12,500 LACY GTA VI Marathon Pool",
+    "url": "https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a",
+    "title": "{hook} | LACY #LACY #shorts",
+    "min_views": 750000,
+    "desc": "LACY GTA 6 marathon moment\n\n#LACY #GTA6 #shorts",
+    "language": "en",
+    "rules": "https://reachclipping.com/LACYGTA"
+  },
+  "jasontheween": {
+    "name": "$9,000 Jason Pool",
+    "url": "https://contentrewards.com/c/campaigns/0b178e3c-fbd3-4294-8ded-394e3da9c62f",
+    "title": "{hook} | JasonTheWeen #JasonTheWeen #shorts",
+    "min_views": 700000,
+    "desc": "JasonTheWeen moment\n\n#JasonTheWeen #shorts",
+    "language": "en",
+    "ends": "2026-11-30"
+  },
+  "clix": {
+    "name": "$5,000 Clix GTA VI Marathon Pool",
+    "url": "https://contentrewards.com/c/campaigns/985dc674-c75e-44fc-ac87-1b1506324389",
+    "title": "{hook} | Clix #Clix #shorts",
+    "min_views": 400000,
+    "desc": "Clix GTA 6 marathon moment\n\n#Clix #GTA6 #shorts",
+    "language": "en",
+    "rules": "https://reachclipping.com/ClixGTA"
+  },
+  "alanzoka": {
+    "name": "alanzoka (sem campanha paga)",
+    "url": "",
+    "title": "{hook} | alanzoka GTA 6 #alanzoka #GTA6 #shorts",
+    "desc": "Momento do alanzoka jogando GTA 6 ao vivo\n\n#alanzoka #GTA6 #shorts",
+    "language": "pt"
+  },
+  "bistecone": {
+    "name": "bistecone (Kick, sem campanha paga)",
+    "url": "",
+    "title": "{hook} | Bistecone GTA 6 #bistecone #GTA6 #shorts",
+    "desc": "Momento do Bistecone jogando GTA 6 ao vivo na Kick\n\n#bistecone #GTA6 #shorts",
+    "language": "pt"
+  },
+  "kaicenat": {
+    "name": "Kai Cenat (sem campanha ativa em 2026-11-18)",
+    "url": "",
+    "title": "{hook} | Kai Cenat GTA 6 #KaiCenat #GTA6 #shorts",
+    "desc": "Kai Cenat playing GTA 6 live\n\n#KaiCenat #GTA6 #shorts",
+    "language": "en"
+  }
+}
